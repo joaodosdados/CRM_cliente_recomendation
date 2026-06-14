@@ -1,289 +1,241 @@
 sales_agent,sector,agent_sector_winrate
-Anna Snelling,employment,0.5608465608465608
-Anna Snelling,entertainment,0.711484593837535
-Anna Snelling,finance,0.5023809523809524
-Anna Snelling,marketing,0.6403242147922998
-Anna Snelling,medical,0.6245686680469289
-Anna Snelling,retail,0.6141885325558795
-Anna Snelling,services,0.6063492063492063
-Anna Snelling,software,0.6365079365079365
-Anna Snelling,technolgy,0.6879886282871357
-Anna Snelling,telecommunications,0.561624649859944
-Boris Faz,employment,0.6300653594771242
-Boris Faz,entertainment,0.5250544662309368
-Boris Faz,finance,0.42275698158051095
-Boris Faz,marketing,0.6647443291041907
-Boris Faz,medical,0.7522023302074452
-Boris Faz,retail,0.707516339869281
-Boris Faz,software,0.7807943690296631
-Boris Faz,technolgy,0.6738250855897915
-Boris Faz,telecommunications,0.5501089324618736
-Cassey Cress,employment,0.7602171136653896
-Cassey Cress,entertainment,0.604904214559387
-Cassey Cress,finance,0.5867390378884632
-Cassey Cress,marketing,0.5051085568326948
-Cassey Cress,medical,0.6030651340996169
-Cassey Cress,retail,0.6684435559997779
-Cassey Cress,software,0.6320744389709907
-Cassey Cress,technolgy,0.6224521072796935
-Cassey Cress,telecommunications,0.6748403575989783
-Cecily Lampkin,employment,0.7048611111111112
-Cecily Lampkin,entertainment,0.734375
-Cecily Lampkin,finance,0.7671875
-Cecily Lampkin,marketing,0.6793981481481481
-Cecily Lampkin,medical,0.640625
-Cecily Lampkin,retail,0.5290948275862069
-Cecily Lampkin,services,0.71875
-Cecily Lampkin,software,0.84375
-Cecily Lampkin,technolgy,0.646780303030303
-Cecily Lampkin,telecommunications,0.5959821428571429
-Corliss Cosme,employment,0.7134699361773597
-Corliss Cosme,entertainment,0.7137554585152838
-Corliss Cosme,finance,0.691004366812227
-Corliss Cosme,marketing,0.6632417159003339
-Corliss Cosme,medical,0.7053063384941114
-Corliss Cosme,retail,0.5922810172103776
-Corliss Cosme,software,0.5669149755972258
-Corliss Cosme,technolgy,0.6720609641236407
-Corliss Cosme,telecommunications,0.7903930131004366
-Daniell Hammack,employment,0.7540106951871657
-Daniell Hammack,entertainment,0.4784823020117137
-Daniell Hammack,finance,0.6693404634581105
-Daniell Hammack,marketing,0.6341120180129467
-Daniell Hammack,medical,0.549939623943419
-Daniell Hammack,retail,0.55200261922951
-Daniell Hammack,software,0.5403126285479226
-Daniell Hammack,technolgy,0.722049496331302
-Daniell Hammack,telecommunications,0.6960098724804606
-Darcel Schlecht,employment,0.5577757685352622
-Darcel Schlecht,entertainment,0.6434325168502384
-Darcel Schlecht,finance,0.6544277589957282
-Darcel Schlecht,marketing,0.6689205126189166
-Darcel Schlecht,medical,0.5869866249613085
-Darcel Schlecht,retail,0.672854624945636
-Darcel Schlecht,services,0.7639832886450084
-Darcel Schlecht,software,0.619258589511754
-Darcel Schlecht,technolgy,0.6201599522753118
-Darcel Schlecht,telecommunications,0.5565003270362818
-Donn Cantrell,employment,0.49292929292929294
-Donn Cantrell,entertainment,0.4946969696969697
-Donn Cantrell,finance,0.5335664335664336
-Donn Cantrell,marketing,0.4225108225108225
-Donn Cantrell,medical,0.616017316017316
-Donn Cantrell,retail,0.6447893569844789
-Donn Cantrell,software,0.5608391608391609
-Donn Cantrell,technolgy,0.6391080617495712
-Donn Cantrell,telecommunications,0.39151515151515154
-Elease Gluck,employment,0.6860670194003526
-Elease Gluck,entertainment,0.7161531279178338
-Elease Gluck,finance,0.6860670194003526
-Elease Gluck,marketing,0.3968253968253968
-Elease Gluck,medical,0.6116402116402117
-Elease Gluck,retail,0.6335600907029478
-Elease Gluck,services,0.6087301587301587
-Elease Gluck,software,0.616287094547964
-Elease Gluck,technolgy,0.6984126984126984
-Elease Gluck,telecommunications,0.6322751322751322
-Garret Kinder,employment,0.458980044345898
-Garret Kinder,entertainment,0.6032520325203252
-Garret Kinder,finance,0.5582655826558266
-Garret Kinder,marketing,0.6905487804878049
-Garret Kinder,medical,0.5582655826558266
-Garret Kinder,retail,0.5846883468834688
-Garret Kinder,software,0.6686991869918698
-Garret Kinder,technolgy,0.6977730646871685
-Garret Kinder,telecommunications,0.578397212543554
-Gladys Colclough,employment,0.5454980842911877
-Gladys Colclough,entertainment,0.6281347962382445
-Gladys Colclough,finance,0.6738083164300203
-Gladys Colclough,marketing,0.6477370689655173
-Gladys Colclough,medical,0.5864604462474645
-Gladys Colclough,retail,0.5477370689655172
-Gladys Colclough,services,0.6363916256157636
-Gladys Colclough,software,0.5413401253918496
-Gladys Colclough,technolgy,0.45455397301349326
-Gladys Colclough,telecommunications,0.660632183908046
-Hayden Neloms,employment,0.8168282548476454
-Hayden Neloms,entertainment,0.7013157894736842
-Hayden Neloms,finance,0.6553643724696356
-Hayden Neloms,marketing,0.782483552631579
-Hayden Neloms,medical,0.7364551083591332
-Hayden Neloms,retail,0.7199935815147626
-Hayden Neloms,services,0.5878146453089245
-Hayden Neloms,software,0.6589335180055402
-Hayden Neloms,technolgy,0.7115650969529086
-Hayden Neloms,telecommunications,0.6759868421052632
-James Ascencio,employment,0.6820388349514563
-James Ascencio,entertainment,0.6642043056141832
-James Ascencio,finance,0.512577228596646
-James Ascencio,marketing,0.6769147788565264
-James Ascencio,medical,0.5710679611650485
-James Ascencio,retail,0.6791163067168615
-James Ascencio,services,0.6884535367545076
-James Ascencio,software,0.7853045013239188
-James Ascencio,technolgy,0.6489408649602825
-James Ascencio,telecommunications,0.6138349514563106
-Jonathan Berthelot,employment,0.4762396694214876
-Jonathan Berthelot,entertainment,0.6865530303030303
-Jonathan Berthelot,finance,0.5782467532467532
-Jonathan Berthelot,marketing,0.5526859504132231
-Jonathan Berthelot,medical,0.6471445221445221
-Jonathan Berthelot,retail,0.7361793611793612
-Jonathan Berthelot,services,0.5149147727272727
-Jonathan Berthelot,software,0.5799512987012987
-Jonathan Berthelot,technolgy,0.7268241626794257
-Jonathan Berthelot,telecommunications,0.7125420875420875
-Kami Bicknell,employment,0.6614819004524887
-Kami Bicknell,entertainment,0.696501014198783
-Kami Bicknell,finance,0.509024064171123
-Kami Bicknell,marketing,0.7066176470588236
-Kami Bicknell,medical,0.7066176470588236
-Kami Bicknell,retail,0.6135343968095712
-Kami Bicknell,services,0.6193074003795067
-Kami Bicknell,software,0.7160815939278937
-Kami Bicknell,technolgy,0.6624540441176471
-Kami Bicknell,telecommunications,0.5062040441176471
-Kary Hendrixson,employment,0.6167549350024073
-Kary Hendrixson,entertainment,0.6340519624101714
-Kary Hendrixson,finance,0.7647761194029851
-Kary Hendrixson,marketing,0.684776119402985
-Kary Hendrixson,medical,0.7176972281449893
-Kary Hendrixson,retail,0.5542026708562451
-Kary Hendrixson,services,0.6306837903505726
-Kary Hendrixson,software,0.6470978441127695
-Kary Hendrixson,technolgy,0.5243348475016223
-Kary Hendrixson,telecommunications,0.628731343283582
-Lajuana Vencill,employment,0.41654641654641655
-Lajuana Vencill,entertainment,0.5936147186147187
-Lajuana Vencill,finance,0.5916305916305916
-Lajuana Vencill,marketing,0.610262286732875
-Lajuana Vencill,medical,0.4959502862728669
-Lajuana Vencill,retail,0.4921536796536797
-Lajuana Vencill,services,0.5191475191475192
-Lajuana Vencill,software,0.6465144051350947
-Lajuana Vencill,technolgy,0.6079299488390397
-Lajuana Vencill,telecommunications,0.43744588744588747
-Markita Hansen,employment,0.6789647577092511
-Markita Hansen,entertainment,0.8409013893595391
-Markita Hansen,finance,0.5173064820641914
-Markita Hansen,marketing,0.5847016419703644
-Markita Hansen,medical,0.4664966380709483
-Markita Hansen,retail,0.5345080763582966
-Markita Hansen,services,0.5504976341980747
-Markita Hansen,software,0.6407560039789683
-Markita Hansen,technolgy,0.38980109464690965
-Markita Hansen,telecommunications,0.6022655758338578
-Marty Freudenburg,employment,0.39304123711340205
-Marty Freudenburg,entertainment,0.7620274914089347
-Marty Freudenburg,finance,0.709049255441008
-Marty Freudenburg,marketing,0.6480117820324006
-Marty Freudenburg,medical,0.6396438612933458
-Marty Freudenburg,retail,0.5873424971363116
-Marty Freudenburg,services,0.6762886597938144
-Marty Freudenburg,software,0.4830633284241531
-Marty Freudenburg,technolgy,0.5595647193585338
-Marty Freudenburg,telecommunications,0.8320194057004244
-Maureen Marcano,employment,0.624916163648558
-Maureen Marcano,entertainment,0.6480612067466528
-Maureen Marcano,finance,0.6051396095873486
-Maureen Marcano,marketing,0.749832327297116
-Maureen Marcano,medical,0.770735524256651
-Maureen Marcano,retail,0.7613102859581733
-Maureen Marcano,services,0.7221352808207269
-Maureen Marcano,software,0.7205191935929302
-Maureen Marcano,technolgy,0.6040688575899843
-Maureen Marcano,telecommunications,0.7498932991890738
-Moses Frase,employment,0.7008547008547008
-Moses Frase,entertainment,0.811965811965812
-Moses Frase,finance,0.7521367521367521
-Moses Frase,marketing,0.5260545905707196
-Moses Frase,medical,0.5861538461538461
-Moses Frase,retail,0.7283653846153846
-Moses Frase,services,0.7067307692307692
-Moses Frase,software,0.5785953177257525
-Moses Frase,technolgy,0.683991683991684
-Moses Frase,telecommunications,0.846153846153846
-Niesha Huffines,employment,0.625
-Niesha Huffines,entertainment,0.5333333333333333
-Niesha Huffines,finance,0.44
-Niesha Huffines,marketing,0.68
-Niesha Huffines,medical,0.6216216216216216
-Niesha Huffines,retail,0.4666666666666667
-Niesha Huffines,services,0.75
-Niesha Huffines,software,0.6086956521739131
-Niesha Huffines,technolgy,0.6666666666666666
-Niesha Huffines,telecommunications,0.7142857142857143
-Reed Clapper,employment,0.47909474491752974
-Reed Clapper,entertainment,0.7308016877637131
-Reed Clapper,finance,0.6882157926461724
-Reed Clapper,marketing,0.6642323920804933
-Reed Clapper,medical,0.5710267229254571
-Reed Clapper,retail,0.6277366451715627
-Reed Clapper,software,0.7791440626883664
-Reed Clapper,technolgy,0.652353768511624
-Reed Clapper,telecommunications,0.5907172995780591
-Rosalina Dieter,employment,0.5909090909090909
-Rosalina Dieter,entertainment,0.5594405594405594
-Rosalina Dieter,finance,0.6420454545454546
-Rosalina Dieter,marketing,0.8560606060606061
-Rosalina Dieter,medical,0.7132867132867133
-Rosalina Dieter,retail,0.8025078369905956
-Rosalina Dieter,services,0.5367965367965368
-Rosalina Dieter,software,0.6420454545454546
-Rosalina Dieter,technolgy,0.5702479338842975
-Rosalina Dieter,telecommunications,0.5515151515151515
-Rosie Papadopoulos,entertainment,0.6389462809917356
-Rosie Papadopoulos,finance,0.6342975206611571
-Rosie Papadopoulos,marketing,0.8148760330578513
-Rosie Papadopoulos,medical,0.6465063861758077
-Rosie Papadopoulos,retail,0.7074380165289256
-Rosie Papadopoulos,software,0.6010518407212623
-Rosie Papadopoulos,technolgy,0.5555972952667168
-Rosie Papadopoulos,telecommunications,0.5223140495867769
-Versie Hillebrand,employment,0.7179487179487178
-Versie Hillebrand,entertainment,0.5277777777777778
-Versie Hillebrand,finance,0.6095238095238095
-Versie Hillebrand,marketing,0.6736111111111112
-Versie Hillebrand,medical,0.7388888888888889
-Versie Hillebrand,retail,0.6161616161616161
-Versie Hillebrand,services,0.7777777777777777
-Versie Hillebrand,software,0.5913978494623655
-Versie Hillebrand,technolgy,0.6453900709219857
-Versie Hillebrand,telecommunications,0.753623188405797
-Vicki Laflamme,employment,0.7475717792720674
-Vicki Laflamme,entertainment,0.6620136887608069
-Vicki Laflamme,finance,0.6609399246286854
-Vicki Laflamme,marketing,0.7728146013448607
-Vicki Laflamme,medical,0.6307636887608069
-Vicki Laflamme,retail,0.6364005357795186
-Vicki Laflamme,services,0.5043913819129957
-Vicki Laflamme,software,0.5596541786743516
-Vicki Laflamme,technolgy,0.6573930392374197
-Vicki Laflamme,telecommunications,0.6296109510086455
-Violet Mclelland,employment,0.6845135290731146
-Violet Mclelland,entertainment,0.6156792070286101
-Violet Mclelland,finance,0.6064248704663213
-Violet Mclelland,marketing,0.6080310880829016
-Violet Mclelland,medical,0.6612694300518135
-Violet Mclelland,retail,0.6062176165803108
-Violet Mclelland,software,0.7741542212740019
-Violet Mclelland,technolgy,0.6136737015038545
-Violet Mclelland,telecommunications,0.6277401355121562
-Wilburn Farren,entertainment,0.5891829689298045
-Wilburn Farren,finance,0.8734177215189874
-Wilburn Farren,marketing,0.5481012658227848
-Wilburn Farren,medical,0.5822784810126582
-Wilburn Farren,retail,0.7585560243788092
-Wilburn Farren,software,0.6800920598388953
-Wilburn Farren,technolgy,0.7600440286186021
-Wilburn Farren,telecommunications,0.6401446654611213
-Zane Levy,employment,0.5744389709906951
-Zane Levy,entertainment,0.5254039646843245
-Zane Levy,finance,0.5060207991242474
-Zane Levy,marketing,0.5947405085336119
-Zane Levy,medical,0.6156222963786924
-Zane Levy,retail,0.6416858237547893
-Zane Levy,services,0.6944690048138324
-Zane Levy,software,0.6309797482211276
-Zane Levy,technolgy,0.6074813470457754
-Zane Levy,telecommunications,0.6478803608948214
+Anna Snelling,agroindustria,0.5508870214752568
+Anna Snelling,construcao de vias,0.6117836965294592
+Anna Snelling,energia,0.6765615337043909
+Anna Snelling,logistica,0.5759637188208616
+Anna Snelling,manufatura pesada,0.6301218161683277
+Anna Snelling,metalurgia,0.6941391941391941
+Anna Snelling,mineracao,0.5476190476190476
+Anna Snelling,saneamento,0.5894909688013136
+Boris Faz,agroindustria,0.7357609710550886
+Boris Faz,construcao de vias,0.5545652604476133
+Boris Faz,energia,0.5591206179441474
+Boris Faz,logistica,0.6100217864923747
+Boris Faz,manufatura pesada,0.6375272331154683
+Boris Faz,metalurgia,0.5947712418300654
+Boris Faz,mineracao,0.85838779956427
+Boris Faz,saneamento,0.8025808614043908
+Cassey Cress,agroindustria,0.7415070242656451
+Cassey Cress,construcao de vias,0.713835674755215
+Cassey Cress,energia,0.5816386678455644
+Cassey Cress,logistica,0.6196299013613761
+Cassey Cress,manufatura pesada,0.5350814176245211
+Cassey Cress,metalurgia,0.6035030103995621
+Cassey Cress,mineracao,0.564904214559387
+Cassey Cress,saneamento,0.6331921758419036
+Cecily Lampkin,agroindustria,0.7439903846153846
+Cecily Lampkin,construcao de vias,0.6571691176470589
+Cecily Lampkin,energia,0.7039930555555556
+Cecily Lampkin,logistica,0.6674107142857143
+Cecily Lampkin,manufatura pesada,0.6053240740740741
+Cecily Lampkin,metalurgia,0.49375
+Cecily Lampkin,mineracao,0.8258928571428571
+Cecily Lampkin,saneamento,0.6672794117647058
+Corliss Cosme,agroindustria,0.7220652453120986
+Corliss Cosme,construcao de vias,0.5072397150080441
+Corliss Cosme,energia,0.664135181317638
+Corliss Cosme,logistica,0.5568777292576419
+Corliss Cosme,manufatura pesada,0.6991416955277819
+Corliss Cosme,metalurgia,0.8620410803816917
+Corliss Cosme,mineracao,0.5812538989394884
+Corliss Cosme,saneamento,0.7055986443329205
+Daniell Hammack,agroindustria,0.5498298492950899
+Daniell Hammack,construcao de vias,0.6088617265087853
+Daniell Hammack,energia,0.6686720142602495
+Daniell Hammack,logistica,0.6597104473718534
+Daniell Hammack,manufatura pesada,0.6977447105324343
+Daniell Hammack,metalurgia,0.4844182186981375
+Daniell Hammack,mineracao,0.4762172811708415
+Daniell Hammack,saneamento,0.6355409296585767
+Darcel Schlecht,agroindustria,0.6208989925083958
+Darcel Schlecht,construcao de vias,0.5789228388732499
+Darcel Schlecht,energia,0.6368644602380251
+Darcel Schlecht,logistica,0.5412684060966159
+Darcel Schlecht,manufatura pesada,0.6736502195815035
+Darcel Schlecht,metalurgia,0.619258589511754
+Darcel Schlecht,mineracao,0.6644439421338155
+Darcel Schlecht,saneamento,0.6923447860156722
+Donn Cantrell,agroindustria,0.5545454545454546
+Donn Cantrell,construcao de vias,0.6223484848484849
+Donn Cantrell,energia,0.6025974025974027
+Donn Cantrell,logistica,0.5571648690292759
+Donn Cantrell,manufatura pesada,0.49510489510489514
+Donn Cantrell,metalurgia,0.5818181818181819
+Donn Cantrell,mineracao,0.6163009404388715
+Donn Cantrell,saneamento,0.5609090909090909
+Elease Gluck,agroindustria,0.5685795685795686
+Elease Gluck,construcao de vias,0.7467218771566597
+Elease Gluck,energia,0.7609126984126984
+Elease Gluck,logistica,0.398046398046398
+Elease Gluck,manufatura pesada,0.744973544973545
+Elease Gluck,metalurgia,0.6617063492063492
+Elease Gluck,mineracao,0.6174603174603174
+Elease Gluck,saneamento,0.5652557319223985
+Garret Kinder,agroindustria,0.6310975609756098
+Garret Kinder,construcao de vias,0.5024390243902439
+Garret Kinder,energia,0.5815147625160462
+Garret Kinder,logistica,0.6682926829268292
+Garret Kinder,manufatura pesada,0.7394094993581515
+Garret Kinder,metalurgia,0.6341463414634146
+Garret Kinder,mineracao,0.549889135254989
+Garret Kinder,saneamento,0.5688859591298615
+Gladys Colclough,agroindustria,0.7272833178005592
+Gladys Colclough,construcao de vias,0.5206700626959248
+Gladys Colclough,energia,0.6256761325219743
+Gladys Colclough,logistica,0.6591235632183908
+Gladys Colclough,manufatura pesada,0.675338669950739
+Gladys Colclough,metalurgia,0.4688133874239351
+Gladys Colclough,mineracao,0.46364942528735636
+Gladys Colclough,saneamento,0.6268148820326679
+Hayden Neloms,agroindustria,0.7587011884550086
+Hayden Neloms,construcao de vias,0.685916179337232
+Hayden Neloms,energia,0.7617276887871853
+Hayden Neloms,logistica,0.8066520467836258
+Hayden Neloms,manufatura pesada,0.6353744939271255
+Hayden Neloms,metalurgia,0.5699926900584795
+Hayden Neloms,mineracao,0.5927033492822967
+Hayden Neloms,saneamento,0.8759868421052632
+James Ascencio,agroindustria,0.5977166486875225
+James Ascencio,construcao de vias,0.5862289218191109
+James Ascencio,energia,0.6781957928802589
+James Ascencio,logistica,0.683154027814222
+James Ascencio,manufatura pesada,0.664488424197162
+James Ascencio,metalurgia,0.6881067961165048
+James Ascencio,mineracao,0.7845873786407767
+James Ascencio,saneamento,0.7517799352750809
+Jonathan Berthelot,agroindustria,0.6887472283813747
+Jonathan Berthelot,construcao de vias,0.6567124735729387
+Jonathan Berthelot,energia,0.5974786931818181
+Jonathan Berthelot,logistica,0.6399147727272727
+Jonathan Berthelot,manufatura pesada,0.7632063882063882
+Jonathan Berthelot,metalurgia,0.6887472283813747
+Jonathan Berthelot,mineracao,0.6399667405764967
+Jonathan Berthelot,saneamento,0.4399350649350649
+Kami Bicknell,agroindustria,0.6036096256684491
+Kami Bicknell,construcao de vias,0.572520184544406
+Kami Bicknell,energia,0.6399509803921569
+Kami Bicknell,logistica,0.6799632352941176
+Kami Bicknell,manufatura pesada,0.6549632352941177
+Kami Bicknell,metalurgia,0.7258986928104575
+Kami Bicknell,mineracao,0.5410899653979239
+Kami Bicknell,saneamento,0.6479411764705882
+Kary Hendrixson,agroindustria,0.6046971027216858
+Kary Hendrixson,construcao de vias,0.6630407285605869
+Kary Hendrixson,energia,0.5529850746268656
+Kary Hendrixson,logistica,0.6933191186922529
+Kary Hendrixson,manufatura pesada,0.5782949658487225
+Kary Hendrixson,metalurgia,0.6918225772545722
+Kary Hendrixson,mineracao,0.43710021321961623
+Kary Hendrixson,saneamento,0.596336499321574
+Lajuana Vencill,agroindustria,0.58995670995671
+Lajuana Vencill,construcao de vias,0.5052961223173988
+Lajuana Vencill,energia,0.5669449598021027
+Lajuana Vencill,logistica,0.35930735930735935
+Lajuana Vencill,manufatura pesada,0.6319143819143819
+Lajuana Vencill,metalurgia,0.49261522790934553
+Lajuana Vencill,mineracao,0.7196641742096287
+Lajuana Vencill,saneamento,0.40620490620490624
+Markita Hansen,agroindustria,0.5900636319138521
+Markita Hansen,construcao de vias,0.5675267463813719
+Markita Hansen,energia,0.5945374449339207
+Markita Hansen,logistica,0.5439818104305811
+Markita Hansen,manufatura pesada,0.6274660026814786
+Markita Hansen,metalurgia,0.49689627553063676
+Markita Hansen,mineracao,0.5279566248729245
+Markita Hansen,saneamento,0.6243913749130536
+Marty Freudenburg,agroindustria,0.7857603092783505
+Marty Freudenburg,construcao de vias,0.6447264076130056
+Marty Freudenburg,energia,0.5941893158388004
+Marty Freudenburg,logistica,0.595360824742268
+Marty Freudenburg,manufatura pesada,0.6326951399116347
+Marty Freudenburg,metalurgia,0.4885267708679747
+Marty Freudenburg,mineracao,0.6310137457044673
+Marty Freudenburg,saneamento,0.6555488174651304
+Maureen Marcano,agroindustria,0.6847315778730353
+Maureen Marcano,construcao de vias,0.7360459050599896
+Maureen Marcano,energia,0.6903644086742678
+Maureen Marcano,logistica,0.6723328476606767
+Maureen Marcano,manufatura pesada,0.7082681272822118
+Maureen Marcano,metalurgia,0.7499530516431925
+Maureen Marcano,mineracao,0.653665583243048
+Maureen Marcano,saneamento,0.6135296628254374
+Moses Frase,agroindustria,0.7323076923076922
+Moses Frase,construcao de vias,0.7426035502958579
+Moses Frase,energia,0.5874125874125874
+Moses Frase,logistica,0.6390532544378698
+Moses Frase,manufatura pesada,0.7596153846153846
+Moses Frase,metalurgia,0.6033653846153846
+Moses Frase,mineracao,0.6435897435897435
+Moses Frase,saneamento,0.6503496503496503
+Niesha Huffines,agroindustria,0.6052631578947368
+Niesha Huffines,construcao de vias,0.7142857142857143
+Niesha Huffines,energia,0.5625
+Niesha Huffines,logistica,0.6666666666666666
+Niesha Huffines,manufatura pesada,0.6842105263157895
+Niesha Huffines,metalurgia,0.6
+Niesha Huffines,mineracao,0.5384615384615384
+Niesha Huffines,saneamento,0.42857142857142855
+Reed Clapper,agroindustria,0.7805907172995781
+Reed Clapper,construcao de vias,0.6969057665260197
+Reed Clapper,energia,0.6362869198312237
+Reed Clapper,logistica,0.697500811424862
+Reed Clapper,manufatura pesada,0.7137052664478825
+Reed Clapper,metalurgia,0.5893561998094461
+Reed Clapper,mineracao,0.5842877235282299
+Reed Clapper,saneamento,0.5821161960402467
+Rosalina Dieter,agroindustria,0.4595959595959596
+Rosalina Dieter,construcao de vias,0.6397306397306397
+Rosalina Dieter,energia,0.7511961722488039
+Rosalina Dieter,logistica,0.8181818181818182
+Rosalina Dieter,manufatura pesada,0.645933014354067
+Rosalina Dieter,metalurgia,0.6022727272727273
+Rosalina Dieter,mineracao,0.7532467532467532
+Rosalina Dieter,saneamento,0.7132867132867133
+Rosie Papadopoulos,agroindustria,0.5278925619834711
+Rosie Papadopoulos,construcao de vias,0.674931129476584
+Rosie Papadopoulos,energia,0.7111570247933885
+Rosie Papadopoulos,logistica,0.6508264462809917
+Rosie Papadopoulos,manufatura pesada,0.6148760330578512
+Rosie Papadopoulos,metalurgia,0.6959547629404089
+Rosie Papadopoulos,mineracao,0.6019283746556474
+Rosie Papadopoulos,saneamento,0.6007231404958677
+Versie Hillebrand,agroindustria,0.5350877192982456
+Versie Hillebrand,construcao de vias,0.7232704402515724
+Versie Hillebrand,energia,0.7083333333333334
+Versie Hillebrand,logistica,0.6419753086419753
+Versie Hillebrand,manufatura pesada,0.6904761904761905
+Versie Hillebrand,metalurgia,0.6952380952380952
+Versie Hillebrand,mineracao,0.6161616161616161
+Versie Hillebrand,saneamento,0.6666666666666666
+Vicki Laflamme,agroindustria,0.6052662745252853
+Vicki Laflamme,construcao de vias,0.6636887608069165
+Vicki Laflamme,energia,0.6270495875981318
+Vicki Laflamme,logistica,0.6472485247701386
+Vicki Laflamme,manufatura pesada,0.6695942546086638
+Vicki Laflamme,metalurgia,0.6300516051203003
+Vicki Laflamme,mineracao,0.5990845906085777
+Vicki Laflamme,saneamento,0.6364606681609564
+Violet Mclelland,agroindustria,0.7418747056052756
+Violet Mclelland,construcao de vias,0.6386873920552677
+Violet Mclelland,energia,0.5831008369868473
+Violet Mclelland,logistica,0.5618749246897217
+Violet Mclelland,manufatura pesada,0.7800282618935469
+Violet Mclelland,metalurgia,0.612879348630644
+Violet Mclelland,mineracao,0.6400327242977911
+Violet Mclelland,saneamento,0.6326041066973709
+Wilburn Farren,agroindustria,0.7481012658227849
+Wilburn Farren,construcao de vias,0.7654008438818566
+Wilburn Farren,energia,0.575462512171373
+Wilburn Farren,logistica,0.5300632911392406
+Wilburn Farren,manufatura pesada,0.8619102416570772
+Wilburn Farren,metalurgia,0.8240506329113924
+Wilburn Farren,mineracao,0.6234177215189874
+Wilburn Farren,saneamento,0.6582278481012659
+Zane Levy,agroindustria,0.557428693060877
+Zane Levy,construcao de vias,0.6416858237547893
+Zane Levy,energia,0.6401950539881575
+Zane Levy,logistica,0.6478803608948214
+Zane Levy,manufatura pesada,0.6021072796934865
+Zane Levy,metalurgia,0.5960036859207527
+Zane Levy,mineracao,0.7349355625217694
+Zane Levy,saneamento,0.6558387472930202

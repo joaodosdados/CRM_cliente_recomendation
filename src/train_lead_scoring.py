@@ -29,7 +29,7 @@ from sklearn.model_selection import RepeatedKFold, cross_val_score, train_test_s
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 
-CATEGORICAL = ["sector"]
+CATEGORICAL = ["sector", "customer_segment"]
 NUMERIC = [
     "company_age", "revenue", "employees", "is_subsidiary", "is_domestic",
     "total_opps_hist", "win_rate_hist", "total_value_won_hist",

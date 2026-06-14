@@ -39,25 +39,32 @@ def build_accounts_features(accounts: pd.DataFrame) -> pd.DataFrame:
     (nao depende de historico de compra)."""
     df = accounts.copy()
     df["sector"] = df["sector"].str.strip().str.lower()
+    if "customer_segment" not in df.columns:
+        df["customer_segment"] = "industrial_geral"
+    df["customer_segment"] = df["customer_segment"].fillna("industrial_geral").str.strip().str.lower()
     df["company_age"] = REFERENCE_YEAR - df["year_established"]
     df["is_subsidiary"] = df["subsidiary_of"].notna().astype(int)
     df["is_domestic"] = (df["office_location"] == "United States").astype(int)
 
     cols = [
-        "account", "sector", "company_age", "revenue", "employees",
+        "account", "sector", "customer_segment", "company_age", "revenue", "employees",
         "is_subsidiary", "is_domestic",
     ]
     return df[cols]
 
 
-def build_opportunity_table(pipeline: pd.DataFrame, accounts_features: pd.DataFrame,
-                             teams: pd.DataFrame) -> pd.DataFrame:
+def build_opportunity_table(pipeline: pd.DataFrame, products: pd.DataFrame,
+                             accounts_features: pd.DataFrame, teams: pd.DataFrame) -> pd.DataFrame:
     """Uma linha por oportunidade encerrada (Won/Lost), com features da conta e
     do vendedor responsavel. Oportunidades em aberto (Engaging/Prospecting) ou
     sem conta associada sao descartadas do treino."""
     df = pipeline[pipeline["deal_stage"].isin(["Won", "Lost"])].copy()
     df = df.dropna(subset=["account"])
     df["target_won"] = (df["deal_stage"] == "Won").astype(int)
+
+    product_cols = ["product", "series", "sales_price"]
+    df = df.merge(products[product_cols], on="product", how="left")
+    df["series"] = df["series"].fillna("Outros")
 
     df = df.merge(accounts_features, on="account", how="left")
     df = df.merge(teams, on="sales_agent", how="left")
@@ -127,6 +134,12 @@ def build_urna_features(opportunity_table: pd.DataFrame, accounts_features: pd.D
 
 def build_seller_profiles(opportunity_table: pd.DataFrame, teams: pd.DataFrame) -> pd.DataFrame:
     """Perfil agregado de cada vendedor: regiao, gestor e historico de performance."""
+    teams = teams.copy()
+    if "seller_specialty" not in teams.columns:
+        teams["seller_specialty"] = "carteira_geral"
+    if "seller_focus_sector" not in teams.columns:
+        teams["seller_focus_sector"] = "industrial_geral"
+
     won_value = opportunity_table.loc[opportunity_table["target_won"] == 1].groupby("sales_agent")["close_value"].mean()
 
     agg = opportunity_table.groupby("sales_agent").agg(
@@ -163,7 +176,7 @@ def run(data_dir: str, output_dir: str) -> dict:
     raw = load_raw(data_dir)
 
     accounts_features = build_accounts_features(raw["accounts"])
-    opportunity_table = build_opportunity_table(raw["pipeline"], accounts_features, raw["teams"])
+    opportunity_table = build_opportunity_table(raw["pipeline"], raw["products"], accounts_features, raw["teams"])
     seller_profiles = build_seller_profiles(opportunity_table, raw["teams"])
     seller_sector_winrate = build_seller_sector_winrate(opportunity_table, seller_profiles)
     lead_scoring_table = build_lead_scoring_table(opportunity_table, accounts_features)

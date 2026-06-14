@@ -1,36 +1,36 @@
-sales_agent,manager,regional_office,agent_total_deals,agent_win_rate,agent_avg_deal_value
-Anna Snelling,Dustin Brinkmann,Central,336.0,0.6190476190476191,1322.3846153846155
-Cecily Lampkin,Dustin Brinkmann,Central,160.0,0.66875,2147.663551401869
-Versie Hillebrand,Dustin Brinkmann,Central,264.0,0.6666666666666666,1066.4375
-Lajuana Vencill,Dustin Brinkmann,Central,231.0,0.5497835497835498,1532.5354330708662
-Moses Frase,Dustin Brinkmann,Central,195.0,0.6615384615384615,1606.062015503876
-Jonathan Berthelot,Melvin Marxen,Central,264.0,0.6477272727272727,1666.0
-Marty Freudenburg,Melvin Marxen,Central,194.0,0.6288659793814433,2386.844262295082
-Gladys Colclough,Melvin Marxen,Central,232.0,0.5818965517241379,2560.5481481481484
-Niesha Huffines,Melvin Marxen,Central,175.0,0.6,1685.3428571428572
-Darcel Schlecht,Melvin Marxen,Central,553.0,0.6311030741410488,3304.3381088825213
-Mei-Mei Johns,Melvin Marxen,Central,0.0,0.0,0.0
-Violet Mclelland,Cara Losch,East,193.0,0.6321243523316062,1011.7295081967213
-Corliss Cosme,Cara Losch,East,229.0,0.6550218340611353,2806.9066666666668
-Rosie Papadopoulos,Cara Losch,East,121.0,0.6446280991735537,2950.8846153846152
-Garret Kinder,Cara Losch,East,123.0,0.6097560975609756,2636.9733333333334
-Wilburn Farren,Cara Losch,East,79.0,0.6962025316455697,2866.181818181818
-Elizabeth Anderson,Cara Losch,East,0.0,0.0,0.0
-Daniell Hammack,Rocco Neubert,East,187.0,0.6096256684491979,3194.9912280701756
-Cassey Cress,Rocco Neubert,East,261.0,0.6245210727969349,2763.7361963190183
-Donn Cantrell,Rocco Neubert,East,275.0,0.5745454545454546,2821.8987341772154
-Reed Clapper,Rocco Neubert,East,237.0,0.6540084388185654,2827.974193548387
-Boris Faz,Rocco Neubert,East,153.0,0.6601307189542484,2590.4059405940593
-Natalya Ivanova,Rocco Neubert,East,0.0,0.0,0.0
-Vicki Laflamme,Celia Rouche,West,347.0,0.6368876080691642,2164.68778280543
-Rosalina Dieter,Celia Rouche,West,110.0,0.6545454545454545,3269.4861111111113
-Hayden Neloms,Celia Rouche,West,152.0,0.7039473684210527,2543.0934579439254
-Markita Hansen,Celia Rouche,West,227.0,0.5726872246696035,2529.1692307692306
-Elease Gluck,Celia Rouche,West,126.0,0.6349206349206349,3614.9375
-Carol Thompson,Celia Rouche,West,0.0,0.0,0.0
-James Ascencio,Summer Sewald,West,206.0,0.6553398058252428,3063.2074074074076
-Kary Hendrixson,Summer Sewald,West,335.0,0.6238805970149254,2173.6746411483255
-Kami Bicknell,Summer Sewald,West,272.0,0.6397058823529411,1818.712643678161
-Zane Levy,Summer Sewald,West,261.0,0.6168582375478927,2671.2298136645963
-Maureen Marcano,Summer Sewald,West,213.0,0.6995305164319249,2351.6442953020132
-Carl Lin,Summer Sewald,West,0.0,0.0,0.0
+sales_agent,manager,regional_office,seller_specialty,seller_focus_sector,agent_total_deals,agent_win_rate,agent_avg_deal_value
+Anna Snelling,Dustin Brinkmann,Central,manutencao industrial,energia,336.0,0.6190476190476191,1322.3846153846155
+Cecily Lampkin,Dustin Brinkmann,Central,solda e metalmecanica,metalurgia,160.0,0.66875,2147.663551401869
+Versie Hillebrand,Dustin Brinkmann,Central,ferramentas e abrasivos,construcao de vias,264.0,0.6666666666666666,1066.4375
+Lajuana Vencill,Dustin Brinkmann,Central,agroindustria,agroindustria,231.0,0.5497835497835498,1532.5354330708662
+Moses Frase,Dustin Brinkmann,Central,manutencao industrial,energia,195.0,0.6615384615384615,1606.062015503876
+Jonathan Berthelot,Melvin Marxen,Central,lubrificantes e graxas,manufatura pesada,264.0,0.6477272727272727,1666.0
+Marty Freudenburg,Melvin Marxen,Central,solda e metalmecanica,metalurgia,194.0,0.6288659793814433,2386.844262295082
+Gladys Colclough,Melvin Marxen,Central,combustiveis e frota,logistica,232.0,0.5818965517241379,2560.5481481481484
+Niesha Huffines,Melvin Marxen,Central,agroindustria,agroindustria,175.0,0.6,1685.3428571428572
+Darcel Schlecht,Melvin Marxen,Central,combustiveis e frota,logistica,553.0,0.6311030741410488,3304.3381088825213
+Mei-Mei Johns,Melvin Marxen,Central,campo e saneamento,saneamento,0.0,0.0,0.0
+Violet Mclelland,Cara Losch,East,campo e saneamento,saneamento,193.0,0.6321243523316062,1011.7295081967213
+Corliss Cosme,Cara Losch,East,combustiveis e frota,logistica,229.0,0.6550218340611353,2806.9066666666668
+Rosie Papadopoulos,Cara Losch,East,solda e metalmecanica,metalurgia,121.0,0.6446280991735537,2950.8846153846152
+Garret Kinder,Cara Losch,East,solda e metalmecanica,metalurgia,123.0,0.6097560975609756,2636.9733333333334
+Wilburn Farren,Cara Losch,East,solda e metalmecanica,metalurgia,79.0,0.6962025316455697,2866.181818181818
+Elizabeth Anderson,Cara Losch,East,agroindustria,agroindustria,0.0,0.0,0.0
+Daniell Hammack,Rocco Neubert,East,campo e saneamento,saneamento,187.0,0.6096256684491979,3194.9912280701756
+Cassey Cress,Rocco Neubert,East,solda e metalmecanica,metalurgia,261.0,0.6245210727969349,2763.7361963190183
+Donn Cantrell,Rocco Neubert,East,combustiveis e frota,logistica,275.0,0.5745454545454546,2821.8987341772154
+Reed Clapper,Rocco Neubert,East,manutencao industrial,energia,237.0,0.6540084388185654,2827.974193548387
+Boris Faz,Rocco Neubert,East,lubrificantes e graxas,manufatura pesada,153.0,0.6601307189542484,2590.4059405940593
+Natalya Ivanova,Rocco Neubert,East,manutencao industrial,energia,0.0,0.0,0.0
+Vicki Laflamme,Celia Rouche,West,ferramentas e abrasivos,construcao de vias,347.0,0.6368876080691642,2164.68778280543
+Rosalina Dieter,Celia Rouche,West,ferramentas e abrasivos,construcao de vias,110.0,0.6545454545454545,3269.4861111111113
+Hayden Neloms,Celia Rouche,West,EPI e seguranca,mineracao,152.0,0.7039473684210527,2543.0934579439254
+Markita Hansen,Celia Rouche,West,manutencao industrial,energia,227.0,0.5726872246696035,2529.1692307692306
+Elease Gluck,Celia Rouche,West,lubrificantes e graxas,manufatura pesada,126.0,0.6349206349206349,3614.9375
+Carol Thompson,Celia Rouche,West,solda e metalmecanica,metalurgia,0.0,0.0,0.0
+James Ascencio,Summer Sewald,West,campo e saneamento,saneamento,206.0,0.6553398058252428,3063.2074074074076
+Kary Hendrixson,Summer Sewald,West,ferramentas e abrasivos,construcao de vias,335.0,0.6238805970149254,2173.6746411483255
+Kami Bicknell,Summer Sewald,West,campo e saneamento,saneamento,272.0,0.6397058823529411,1818.712643678161
+Zane Levy,Summer Sewald,West,ferramentas e abrasivos,construcao de vias,261.0,0.6168582375478927,2671.2298136645963
+Maureen Marcano,Summer Sewald,West,EPI e seguranca,mineracao,213.0,0.6995305164319249,2351.6442953020132
+Carl Lin,Summer Sewald,West,campo e saneamento,saneamento,0.0,0.0,0.0
