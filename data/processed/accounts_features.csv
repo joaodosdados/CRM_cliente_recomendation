@@ -1,0 +1,86 @@
+account,sector,company_age,revenue,employees,is_subsidiary,is_domestic
+Acme Corporation,technolgy,22,1100.04,2822,0,1
+Betasoloin,medical,19,251.41,495,0,1
+Betatech,medical,32,647.18,1185,0,0
+Bioholding,medical,6,587.34,1356,0,0
+Bioplex,medical,27,326.82,1016,0,1
+Blackzim,retail,9,497.11,1588,0,1
+Bluth Company,technolgy,25,1242.32,3027,1,1
+Bubba Gump,software,16,987.39,2253,0,1
+Cancity,retail,17,718.62,2448,0,1
+Cheers,entertainment,25,4269.9,6472,1,1
+Codehow,software,20,2714.9,2641,1,1
+Condax,medical,1,4.54,9,0,1
+Conecom,technolgy,13,1520.66,1806,0,1
+Dalttechnology,software,5,98.79,96,1,1
+dambase,marketing,23,2173.98,2928,1,1
+Domzoom,entertainment,20,217.87,551,0,1
+Doncon,technolgy,8,587.72,1501,0,1
+Donquadtech,technolgy,26,1712.68,3194,1,1
+Dontechi,software,36,4618.0,10083,0,1
+Donware,marketing,19,1197.44,2570,0,1
+Fasehatice,retail,28,4968.91,7523,0,1
+Faxquote,telecommunications,23,1825.82,5595,1,1
+Finhigh,finance,12,1102.43,1759,0,1
+Finjob,employment,30,2059.9,3644,0,1
+Funholding,finance,27,2819.5,7227,1,1
+Ganjaflex,retail,23,5158.71,17479,0,0
+Gekko & Co,retail,28,2520.83,3502,0,1
+Genco Pura Olive Oil Company,retail,11,894.33,1635,0,0
+Globex Corporation,technolgy,18,1223.72,2497,0,0
+Gogozoom,telecommunications,11,86.68,187,1,1
+Golddex,finance,10,52.5,165,0,1
+Goodsilron,marketing,18,2952.73,5107,0,1
+Green-Plus,services,15,692.19,1922,0,1
+Groovestreet,retail,15,223.8,299,0,1
+Hatfan,services,36,792.46,1299,0,1
+Hottechi,technolgy,21,8170.38,16499,0,0
+Initech,telecommunications,24,6395.05,20275,0,1
+Inity,marketing,32,2403.58,8801,0,1
+Isdom,medical,16,3178.24,4540,0,1
+Iselectrics,technolgy,7,527.11,1428,1,1
+J-Texon,retail,29,1388.67,3583,0,1
+Kan-code,software,36,11698.03,34288,0,1
+Kinnamplus,retail,14,702.72,1831,0,1
+Konex,technolgy,38,7708.38,13756,0,1
+Konmatfix,marketing,33,375.43,1190,0,1
+Labdrill,medical,33,2741.37,9226,0,1
+Lexiqvolax,medical,14,1618.89,3889,0,1
+Massive Dynamic,entertainment,29,665.06,1095,0,1
+Mathtouch,marketing,34,3027.46,9516,0,0
+Nam-zim,services,31,405.59,1179,1,0
+Newex,services,27,1012.72,3492,0,0
+Ontomedia,employment,21,882.12,2769,0,1
+Opentech,finance,24,355.23,853,0,1
+Plexzap,retail,17,2437.85,4874,0,1
+Plusstrip,entertainment,16,349.81,315,0,1
+Plussunin,retail,15,1419.98,4018,0,1
+Rangreen,technolgy,31,2938.67,8775,0,0
+Rantouch,telecommunications,24,1188.42,3015,0,1
+Ron-tech,medical,26,3922.42,6837,0,1
+Rundofase,technolgy,35,1008.06,1238,0,1
+Scotfind,software,22,6354.87,16780,1,1
+Scottech,marketing,6,45.39,100,1,1
+Silis,medical,24,2818.38,6290,0,1
+Singletechno,retail,22,2214.94,5374,0,1
+Sonron,telecommunications,19,1699.85,5108,0,1
+Stanredtax,finance,31,1698.2,3798,0,1
+Statholdings,employment,21,291.27,586,0,1
+Streethex,retail,30,1376.8,1165,0,0
+Sumace,retail,18,167.89,493,0,0
+Sunnamplex,marketing,10,894.37,1593,0,0
+The New York Inquirer,medical,22,439.21,792,0,1
+Toughzap,retail,23,332.43,799,0,1
+Treequote,telecommunications,30,5266.09,8595,1,1
+Umbrella Corporation,finance,20,2022.14,5113,0,1
+Vehement Capital Partners,finance,25,646.1,883,1,1
+Warephase,services,21,2041.73,5276,0,1
+Xx-holding,finance,25,7537.24,20293,0,1
+Xx-zobam,entertainment,29,3838.39,8274,0,1
+Y-corporation,employment,35,2871.35,9561,0,1
+Yearin,retail,13,2261.05,3851,0,1
+Zathunicon,retail,8,71.12,144,0,1
+Zencorporation,technolgy,7,40.79,142,0,0
+Zoomit,entertainment,26,324.19,978,0,1
+Zotware,software,39,4478.47,13809,0,1
+Zumgoity,medical,34,441.08,1210,0,1
