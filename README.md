@@ -12,6 +12,8 @@ O objetivo e ajudar o vendedor a responder duas perguntas operacionais:
 O projeto usa Python, scikit-learn e Streamlit. O treino e offline; a interface
 carrega artefatos treinados e faz scoring em tempo de uso.
 
+![Dashboard do cockpit comercial](data/index.png)
+
 ## Cenarios
 
 ### 1. Carteira por vendedor
