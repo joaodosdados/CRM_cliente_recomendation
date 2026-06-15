@@ -1,36 +1,36 @@
-sales_agent,manager,regional_office
-Anna Snelling,Dustin Brinkmann,Central
-Cecily Lampkin,Dustin Brinkmann,Central
-Versie Hillebrand,Dustin Brinkmann,Central
-Lajuana Vencill,Dustin Brinkmann,Central
-Moses Frase,Dustin Brinkmann,Central
-Jonathan Berthelot,Melvin Marxen,Central
-Marty Freudenburg,Melvin Marxen,Central
-Gladys Colclough,Melvin Marxen,Central
-Niesha Huffines,Melvin Marxen,Central
-Darcel Schlecht,Melvin Marxen,Central
-Mei-Mei Johns,Melvin Marxen,Central
-Violet Mclelland,Cara Losch,East
-Corliss Cosme,Cara Losch,East
-Rosie Papadopoulos,Cara Losch,East
-Garret Kinder,Cara Losch,East
-Wilburn Farren,Cara Losch,East
-Elizabeth Anderson,Cara Losch,East
-Daniell Hammack,Rocco Neubert,East
-Cassey Cress,Rocco Neubert,East
-Donn Cantrell,Rocco Neubert,East
-Reed Clapper,Rocco Neubert,East
-Boris Faz,Rocco Neubert,East
-Natalya Ivanova,Rocco Neubert,East
-Vicki Laflamme,Celia Rouche,West
-Rosalina Dieter,Celia Rouche,West
-Hayden Neloms,Celia Rouche,West
-Markita Hansen,Celia Rouche,West
-Elease Gluck,Celia Rouche,West
-Carol Thompson,Celia Rouche,West
-James Ascencio,Summer Sewald,West
-Kary Hendrixson,Summer Sewald,West
-Kami Bicknell,Summer Sewald,West
-Zane Levy,Summer Sewald,West
-Maureen Marcano,Summer Sewald,West
-Carl Lin,Summer Sewald,West
+sales_agent,manager,regional_office,seller_specialty,seller_focus_sector
+Anna Snelling,Dustin Brinkmann,Central,manutencao industrial,energia
+Cecily Lampkin,Dustin Brinkmann,Central,solda e metalmecanica,metalurgia
+Versie Hillebrand,Dustin Brinkmann,Central,ferramentas e abrasivos,construcao de vias
+Lajuana Vencill,Dustin Brinkmann,Central,agroindustria,agroindustria
+Moses Frase,Dustin Brinkmann,Central,manutencao industrial,energia
+Jonathan Berthelot,Melvin Marxen,Central,lubrificantes e graxas,manufatura pesada
+Marty Freudenburg,Melvin Marxen,Central,solda e metalmecanica,metalurgia
+Gladys Colclough,Melvin Marxen,Central,combustiveis e frota,logistica
+Niesha Huffines,Melvin Marxen,Central,agroindustria,agroindustria
+Darcel Schlecht,Melvin Marxen,Central,combustiveis e frota,logistica
+Mei-Mei Johns,Melvin Marxen,Central,campo e saneamento,saneamento
+Violet Mclelland,Cara Losch,East,campo e saneamento,saneamento
+Corliss Cosme,Cara Losch,East,combustiveis e frota,logistica
+Rosie Papadopoulos,Cara Losch,East,solda e metalmecanica,metalurgia
+Garret Kinder,Cara Losch,East,solda e metalmecanica,metalurgia
+Wilburn Farren,Cara Losch,East,solda e metalmecanica,metalurgia
+Elizabeth Anderson,Cara Losch,East,agroindustria,agroindustria
+Daniell Hammack,Rocco Neubert,East,campo e saneamento,saneamento
+Cassey Cress,Rocco Neubert,East,solda e metalmecanica,metalurgia
+Donn Cantrell,Rocco Neubert,East,combustiveis e frota,logistica
+Reed Clapper,Rocco Neubert,East,manutencao industrial,energia
+Boris Faz,Rocco Neubert,East,lubrificantes e graxas,manufatura pesada
+Natalya Ivanova,Rocco Neubert,East,manutencao industrial,energia
+Vicki Laflamme,Celia Rouche,West,ferramentas e abrasivos,construcao de vias
+Rosalina Dieter,Celia Rouche,West,ferramentas e abrasivos,construcao de vias
+Hayden Neloms,Celia Rouche,West,EPI e seguranca,mineracao
+Markita Hansen,Celia Rouche,West,manutencao industrial,energia
+Elease Gluck,Celia Rouche,West,lubrificantes e graxas,manufatura pesada
+Carol Thompson,Celia Rouche,West,solda e metalmecanica,metalurgia
+James Ascencio,Summer Sewald,West,campo e saneamento,saneamento
+Kary Hendrixson,Summer Sewald,West,ferramentas e abrasivos,construcao de vias
+Kami Bicknell,Summer Sewald,West,campo e saneamento,saneamento
+Zane Levy,Summer Sewald,West,ferramentas e abrasivos,construcao de vias
+Maureen Marcano,Summer Sewald,West,EPI e seguranca,mineracao
+Carl Lin,Summer Sewald,West,campo e saneamento,saneamento

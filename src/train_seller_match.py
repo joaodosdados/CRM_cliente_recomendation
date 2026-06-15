@@ -20,7 +20,10 @@ from sklearn.model_selection import cross_val_score, train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
-CATEGORICAL = ["sector", "regional_office", "manager"]
+CATEGORICAL = [
+    "sector", "customer_segment", "regional_office", "manager",
+    "seller_specialty", "seller_focus_sector",
+]
 NUMERIC = [
     "company_age", "revenue", "employees", "is_subsidiary", "is_domestic",
     "agent_win_rate", "agent_avg_deal_value", "agent_total_deals", "agent_sector_winrate",
@@ -33,10 +36,12 @@ def build_training_table(processed_dir: str) -> pd.DataFrame:
     profiles = pd.read_csv(os.path.join(processed_dir, "seller_profiles.csv"))
     sector_wr = pd.read_csv(os.path.join(processed_dir, "seller_sector_winrate.csv"))
 
-    df = opp.merge(
-        profiles[["sales_agent", "agent_win_rate", "agent_avg_deal_value", "agent_total_deals"]],
-        on="sales_agent", how="left",
-    )
+    profile_cols = ["sales_agent", "agent_win_rate", "agent_avg_deal_value", "agent_total_deals"]
+    for col in ["seller_specialty", "seller_focus_sector"]:
+        if col not in opp.columns:
+            profile_cols.append(col)
+
+    df = opp.merge(profiles[profile_cols], on="sales_agent", how="left")
     df = df.merge(sector_wr, on=["sales_agent", "sector"], how="left")
     return df
 
@@ -55,6 +60,12 @@ def run(processed_dir: str, models_dir: str) -> None:
 
     X = df[CATEGORICAL + NUMERIC]
     y = df[TARGET]
+
+    if y.nunique() < 2:
+        raise ValueError(
+            "O treino do match vendedor x cliente precisa de pelo menos duas classes "
+            "em target_won (Won e Lost). Verifique o filtro de oportunidades fechadas."
+        )
 
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, random_state=42, stratify=y
